@@ -1,7 +1,7 @@
 # Analisador Lexico Java + Lex
 
 Analisador lexico criado em java para analisar a estrutura lexica da 
-linguagem java
+linguagem java, utilizando a biblioteca lex para gerar os tokens!
 
 ## Funcionamento do Analisador
 Apos executar a aplicação no ambiente de desenvolvimento, basta criar um 
